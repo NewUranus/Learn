@@ -1,5 +1,14 @@
 
 #### Electron + npm
+```
+npm init
+
+npm install --save-dev electron
+
+create main.js
+
+electron .
+```
 
 #### Electron + yarn
 
