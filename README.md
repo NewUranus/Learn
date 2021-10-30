@@ -9,6 +9,7 @@
     - [Electron Fiddle](Electron/Electron&ensp;Fiddle.md)
   - VS Code
     - [编译VS code](Electron/VSCode/本地编译VS&ensp;Code.md)
+    - [VS启动流程](Electron/VSCode/VS启动流程.md)
 
 - NPM
   - [yarn使用](NPM/yarn使用.md)
