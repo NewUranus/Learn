@@ -1,8 +1,10 @@
 # Learn
 
-  - C++
-    - [C++编译（一）预处理](CPP/C++编译（一）预处理.md)
-    - [C++编译（二）编译](CPP/C++编译（二）编译.md)
+- C++
+  - [C++编译（一）预处理](CPP/C++编译（一）预处理.md)
+  - [C++编译（二）编译](CPP/C++编译（二）编译.md)
+- Qt
+  - [Qt安装](Qt/Qt安装.md)
 - Electron
   - Electron
     - [Electron创建项目](Electron/Electron创建项目.md)
