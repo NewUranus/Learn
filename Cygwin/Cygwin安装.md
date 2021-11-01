@@ -1,0 +1,12 @@
+#### 官网
+
+https://cygwin.com
+
+#### 设置镜像源
+
+国外的源下载可能很慢，可以在安装的时候设置国内的源。例如：
+```
+https://mirrors.tuna.tsinghua.edu.cn/cygwin/
+```
+
+![setup](pictures/setup.png)
