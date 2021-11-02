@@ -10,3 +10,8 @@ https://mirrors.tuna.tsinghua.edu.cn/cygwin/
 ```
 
 ![setup](pictures/setup.png)
+
+
+#### Windows Terminal结合Cygwin
+
+可以在设置里面，增加配置文件，命令行指定Cygwin安装目录下的Cygwin.bat文件。

@@ -3,6 +3,8 @@
 - C++
   - [C++编译（一）预处理](CPP/C++编译（一）预处理.md)
   - [C++编译（二）编译](CPP/C++编译（二）编译.md)
+- Cygwin
+  - [Cygwin安装](Cygwin/Cygwin安装.md)
 - Qt
   - [Qt安装](Qt/Qt安装.md)
 - Electron
