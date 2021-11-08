@@ -3,6 +3,9 @@
 - C++
   - [C++编译（一）预处理](CPP/C++编译（一）预处理.md)
   - [C++编译（二）编译](CPP/C++编译（二）编译.md)
+- C#
+  - [C#调用C++DLL](C#/C#调用C++DLL.md)
+  - [ILSPY使用](ILSPY使用.md)
 - Cygwin
   - [Cygwin安装](Cygwin/Cygwin安装.md)
 - Qt
