@@ -28,6 +28,9 @@
 
 - Algorithm
   - [二叉堆](Algorithm/二叉堆.md)
+  - [二叉搜索树](Algorithm/二叉搜索树.md)
+  - [双指针](Algorithm/双指针.md)
+  - [图](Algorithm/图.md)
 
 - Unity
   - [VS2019调试Unity](Unity/VS2019调试Unity.md)
