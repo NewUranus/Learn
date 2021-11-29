@@ -34,3 +34,4 @@
 
 - Unity
   - [VS2019调试Unity](Unity/VS2019调试Unity.md)
+  - [编译aseprite](Unity/编译aseprite.md)
